@@ -1,0 +1,4 @@
+sceneSetups:
+- path: "G:/\u5927\u4E09/3D\u6E38\u620F/allhw/unity/AR/Assets/1.unity"
+  isLoaded: 1
+  isActive: 1
